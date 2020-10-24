@@ -1,2 +1,2 @@
 # kobong
-Sebuah bahasa jawa dari Gosong.
+Sebuah bahasa jawa dari Gosong / Overcook.
