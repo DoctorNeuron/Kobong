@@ -4,8 +4,8 @@ Sebuah Projek Sederhana **ASG 1** Kelompok A
 Anggota:
 
  - RoARene317 (Ketua) 
- - YouCanCallMeMatt (Wakil Ketua) Christopher Lim
-   (Wakil Ketua) 
+ - YouCanCallMeMatt (Wakil Ketua) 
+ - Christopher Lim (Wakil Ketua) 
   - astriddwrn (Anggota) 
   - DarwinX123 (Anggota) 
   - DoctorNeuron (Anggota) 
